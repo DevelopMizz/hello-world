@@ -1,2 +1,2 @@
 # hello-world
-first ever repositiry and will likely not achally ever be used for code
+This is my first ever repositiry, and will likely not ever be used for code.
